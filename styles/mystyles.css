@@ -1,0 +1,33 @@
+a {
+    color:brown;
+    font-style: bold;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+}
+p {
+    color:cornflowerblue;
+    font-size: 18px;
+}
+
+body{
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Avenir', sans-serif; 
+    color: #33475b;    
+        }
+
+.center {
+margin: auto;
+display: block;
+          }
+
+.video{
+    width: 560px; 
+    height: 315px; 
+    top: 0; right: 0;
+    bottom: 0; left: 0;
+    margin: auto;
+}
